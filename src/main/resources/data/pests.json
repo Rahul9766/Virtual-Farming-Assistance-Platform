@@ -1,0 +1,24 @@
+{
+  "pests": [
+    {
+      "name": "aphids",
+      "remedy": "Use neem oil or insecticidal soap spray."
+    },
+    {
+      "name": "caterpillars",
+      "remedy": "Apply BT or handpick manually."
+    },
+    {
+      "name": "whiteflies",
+      "remedy": "Use yellow sticky traps and natural predators."
+    },
+    {
+      "name": "mites",
+      "remedy": "Spray water and introduce predatory mites."
+    },
+    {
+      "name": "bollworm",
+      "remedy": "Use pheromone traps and BT spray."
+    }
+  ]
+}

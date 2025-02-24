@@ -1,0 +1,20 @@
+{
+  "wheat": {
+    "best_soil": "Loamy soil",
+    "recommended_fertilizer": "NPK 10-26-26",
+    "suitable_temperature": "10-25°C",
+    "watering_schedule": "Water every 7 days"
+  },
+  "rice": {
+    "best_soil": "Clayey soil",
+    "recommended_fertilizer": "Urea & DAP",
+    "suitable_temperature": "20-30°C",
+    "watering_schedule": "Keep soil flooded"
+  },
+  "sugarcane": {
+    "best_soil": "Sandy loam",
+    "recommended_fertilizer": "NPK 15-15-15",
+    "suitable_temperature": "25-35°C",
+    "watering_schedule": "Water every 5 days"
+  }
+}

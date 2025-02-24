@@ -1,0 +1,17 @@
+{
+  "Loamy": {
+    "Summer": ["Tomato", "Corn", "Soybean"],
+    "Winter": ["Wheat", "Barley", "Oats"],
+    "Monsoon": ["Rice", "Sugarcane", "Jute"]
+  },
+  "Clay": {
+    "Summer": ["Peanuts", "Cotton", "Sunflower"],
+    "Winter": ["Wheat", "Mustard", "Gram"],
+    "Monsoon": ["Paddy", "Sesame", "Turmeric"]
+  },
+  "Sandy": {
+    "Summer": ["Watermelon", "Cucumber", "Groundnut"],
+    "Winter": ["Carrot", "Radish", "Onion"],
+    "Monsoon": ["Bajra", "Cowpea", "Moong Dal"]
+  }
+}
