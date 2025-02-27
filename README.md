@@ -1,4 +1,4 @@
-# 🌾 Virtual Farming Assistance Platform 🚜
+# 🌾 Virtual Farming Assistance Platform 🚜 
 
 ## 📌 Project Overview
 The **🌱 Virtual Farming Assistance Platform** is a **Spring Boot-based** solution designed to assist farmers in optimizing their agricultural activities using **AI-driven recommendations 🤖 and real-time insights 📊**. The platform integrates **Machine Learning models** for **crop recommendations, pest identification, and market trend analysis**, offering data-driven support to enhance farming efficiency.
